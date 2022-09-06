@@ -1,4 +1,4 @@
-# Curso deSpring Boot API REST: construa uma API
+# Curso de Spring Boot API REST: construa uma API
 
 ### Temas abordados durante o curso:
 - Crie aplicações Java com o Spring Boot
